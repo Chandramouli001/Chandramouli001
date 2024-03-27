@@ -39,7 +39,8 @@
   <a href="https://www.linkedin.com/in/chandramouli01/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/@Chandram0uli"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="mailto:chandramoulihaldar@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href = "https://www.instagram.com/ig_chandramouli/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href = "https://www.instagram.com/ig_chandramouli/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a><br>
+    <a href = "https://github.com/Chandramouli001"><img src="https://raw.githubusercontent.com/Chandramouli001/personal_activity/main/img.jpeg?token=GHSAT0AAAAAACPSC4B7CSKJTWNH6YZXHXHCZQDWCGA" height="55" width="55" alt="instagram logo"  /></a>
 </div>
 
 ###
