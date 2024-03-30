@@ -14,9 +14,10 @@
 ###
 
 <div align="left">
+   <img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="40" alt="coding logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://camo.githubusercontent.com/c0cc23b9eecfc89a4cac3c0a74e26255019165454c83e6fa2d38a14a9e1a798c/68747470733a2f2f747365342e6d6d2e62696e672e6e65742f74683f69643d4f49502e31665a6a51706b524d4b5442474e5f374835596e46774861474c267069643d41706926503d30" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -41,6 +42,7 @@
   <a href="mailto:chandramoulihaldar@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href = "https://www.instagram.com/ig_chandramouli/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a><br>
     <a href = "https://github.com/Chandramouli001"><img src="https://raw.githubusercontent.com/Chandramouli001/personal_activity/main/img.jpeg?token=GHSAT0AAAAAACPSC4B7CSKJTWNH6YZXHXHCZQDWCGA" height="55" width="55" alt="instagram logo"  /></a>
+    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"  height="40" />
 </div>
 
 ###
