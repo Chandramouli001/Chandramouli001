@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://camo.githubusercontent.com/c0cc23b9eecfc89a4cac3c0a74e26255019165454c83e6fa2d38a14a9e1a798c/68747470733a2f2f747365342e6d6d2e62696e672e6e65742f74683f69643d4f49502e31665a6a51706b524d4b5442474e5f374835596e46774861474c267069643d41706926503d30" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*h7GMfvHKvLPkynG9NvULJw.gif" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
