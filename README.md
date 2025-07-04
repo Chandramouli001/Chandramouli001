@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<img align="right" height="150" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" height="40"/>
 
 ###
 
